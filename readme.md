@@ -481,6 +481,7 @@
 | [OBNOXIOUS.CSS](http://tholman.com/obnoxious/)| Animations for the strong of heart, and weak of mind |
 | [MOTION UI](https://zurb.com/playground/motion-ui)| A Sass library for creating flexible CSS transitions and animations |
 | [Keyframes.app](https://keyframes.app/)| A graphical user interface for generating custom CSS keyframe animations |
+| [CSS effect snippets](https://emilkowalski.github.io/css-effects-snippets/)| Snippets for pure CSS animations |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
